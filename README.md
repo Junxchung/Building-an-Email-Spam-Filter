@@ -1,4 +1,4 @@
-# Building-an-Email-Spam-Filter
+# Building an Email Spam Filter
 
 This is a personal project to build a spam filter using Naive Bayes. The following below is taken from the README.md provided alongside the dataset used for the project.
 
